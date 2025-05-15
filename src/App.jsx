@@ -6,7 +6,7 @@ const App = () => {
       <div className=" h-75 w-48 max-sm:w-78 max-sm:h-120 border-none border-slate-600 rounded-xl bg-white pt-1">
         <div className="h-47 w-47 max-sm:w-70 max-sm:h-70 mx-auto p-1.5 max-sm:pt-3">
           <img
-            src="../public/images/image-qr-code.png"
+            src="/images/image-qr-code.png"
             alt="qr-code"
             className="border-none rounded-lg "
           />
